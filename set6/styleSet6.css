@@ -1,0 +1,43 @@
+.hello {
+  width: 600px; 
+  background-color:pink;
+  color: black;
+  padding: 20px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.world {
+  width: 50%; 
+  background-color: aquamarine;
+  padding: 10px;
+  text-align: center;
+}
+
+html {
+  font-size: 20px;
+}
+
+.name {
+  font-size: 2rem; 
+  color: pink;
+  background-color: black;
+  padding: 20px;
+}
+
+.name_inner {
+  font-size: 2em; 
+  color: darkblue;
+  margin-top: 10px;
+}
+
+.school {
+  height: 50vh; 
+  width: 100vw;   
+  background-color:red; 
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,50 @@
+
+button{
+    background-color:yellow;
+    
+}
+
+h1{
+    text-transform:capitalize;
+    text-align: center;
+    color:black;
+}
+.heading{
+    text-transform:capitalize;
+    text-align:left;
+    color:darkslategray;
+}
+body{
+    background-color:lightblue;
+}
+*{
+    font-family: monospace;
+}
+div{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 20px 5px 10px 20px;
+    background-color:white;
+}
+nav{
+    color:white;
+    background-color:#0f1111;
+    height:60px;
+    margin:20px;
+}
+#logo{
+    color:yellow;
+}
+.navLink{
+    color:white;
+}
+a{
+    text-decoration:none;
+    margin: 30px;
+}

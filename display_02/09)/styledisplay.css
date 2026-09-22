@@ -1,0 +1,9 @@
+div{
+    background-color:rgba(255,0,0,0.5);
+    display:inline;
+    margin:20px;
+}
+#div2{
+    //display:none;// is se div 2 k jaga div3 aayega 
+    visibility:hidden;//is se div2 ki jaga kn hoga blank hoga
+}

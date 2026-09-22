@@ -1,0 +1,40 @@
+
+nav{
+    color:white;
+    background-color:#0f1111;
+    height:60px;
+    margin:20px;
+}
+#logo{
+    color:yellow;
+}
+.navLink{
+    color:white;
+}
+a{
+    text-decoration:none;
+    margin: 30px;
+}
+
+
+
+
+
+footer{
+    background-color: black;
+}
+
+main{
+    height:500px;
+    width:500px;
+    background-color: aqua;
+    font-size: 30px;
+}
+div{
+    height:25%;
+    width:2rem;
+    border:2px solid;
+    background-color:rgba(255,0,0,05);
+    margin:20px;
+    font-size:2em;
+}

@@ -1,0 +1,17 @@
+div{
+    height:100px;
+    width:250px;
+    border:5px solid;
+    overflow:scroll;
+}
+img{
+    float:right;
+}
+#clouds{
+    float:left;
+    
+}
+#background_img{
+    background-image:url("ducks.jpg");
+    background-size:auto
+}

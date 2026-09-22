@@ -1,0 +1,34 @@
+body {
+  font-family: system-ui;
+  line-height: 1.7;
+  color: #334155;
+  background-color: #f8fafc;
+  padding: 40px;
+}
+
+.nature{
+  width: 300px;
+  height: 200px;
+  
+  background-image: url('ducks.jpg');
+ 
+  
+  background-size: cover; 
+  background-position: center;
+
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold; 
+  border-radius: 8px; 
+  
+  margin: 20px 0; 
+
+  position: fixed;
+  right: 20px;
+  top: 30%;
+
+  z-index: 9999;
+}
